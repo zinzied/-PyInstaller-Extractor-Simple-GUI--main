@@ -1,0 +1,6 @@
+future
+uuid
+pyinstaller
+colorama
+customtkinter
+tkinterdnd2
