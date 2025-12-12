@@ -2,7 +2,8 @@
 
 A powerful and user-friendly GUI tool for extracting and decompiling PyInstaller executables with enhanced features including progress tracking, drag & drop support, and support for modern Python versions via PyCDC.
 
-![image](https://github.com/user-attachments/assets/196b265f-eccd-437c-9661-fd39fcf2d252)
+<img width="631" height="558" alt="380679731-196b265f-eccd-437c-9661-fd39fcf2d252" src="https://github.com/user-attachments/assets/f78f3d33-7f9a-4f47-b81f-f5a8e0b52c41" />
+
 
 ## ✨ New Features
 
